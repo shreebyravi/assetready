@@ -1,0 +1,25 @@
+asset_id,category,description,manufacturer,model,serial,location,installed_date,status,installer,life_safety
+AHU-014,HVAC,Air handling unit,Climax Air Systems,CLIMAX-500,CX500-881,Level 3 plant room,2026-07-08,Installed,Brisel MEP Services,N
+AHU-015,HVAC,Air handling unit,Climax Air Systems,CLIMAX-500,CX500-882,Level 4 plant room,2026-07-09,Installed,Brisel MEP Services,N
+AHU-016,HVAC,Air handling unit,Climax Air Systems,CLIMAX-500,CX500-883,Level 5 plant room,2026-07-10,Installed,Brisel MEP Services,N
+CH-01,HVAC,Air-cooled chiller,Polaris Cooling,PC-AC900,PCA9-20417,Roof,2026-06-02,Installed,Brisel MEP Services,N
+CH-02,HVAC,Air-cooled chiller,Polaris Cooling,PC-AC900,PCA9-20418,Roof,2026-06-03,Installed,Brisel MEP Services,N
+EF-01,HVAC,Toilet exhaust fan,Climax Air Systems,CE-450,CE45-2201,Roof,2026-06-20,Installed,Brisel MEP Services,N
+FCU-L5-07,HVAC,Fan coil unit,Climax Air Systems,CF-12,CF12-55107,Level 5 west wing,2026-08-04,Installed,Brisel MEP Services,N
+FCU-L5-08,HVAC,Fan coil unit,Climax Air Systems,CF-12,CF12-55108,Level 5 east wing,2026-08-04,Installed,Brisel MEP Services,N
+PMP-03,HVAC,Chilled water pump,Quenvale Pumps,AQ-CW75,AQ75-3303,Basement 1 pump room,2026-06-11,Installed,Brisel MEP Services,N
+PMP-04,HVAC,Chilled water pump,Quenvale Pumps,AQ-CW75,AQ75-3304,Basement 1 pump room,2026-06-11,Installed,Brisel MEP Services,N
+FP-01,Fire,Electric main fire pump,Embral Fire Systems,RF-EM150,RFE-15011,Basement 1 fire pump room,2026-05-28,Installed,Embral Fire Systems,Y
+FP-02,Fire,Jockey pump,Embral Fire Systems,RF-JP10,RFJ-1022,Basement 1 fire pump room,2026-05-28,Installed,Embral Fire Systems,Y
+FP-03,Fire,Diesel standby fire pump,Embral Fire Systems,RF-DS150,RFD-15033,Basement 1 fire pump room,2026-05-29,Installed,Embral Fire Systems,Y
+FAP-01,Fire,Fire alarm control panel,Embral Fire Systems,RF-FA4,RFA-4401,Ground floor fire command room,2026-08-18,Installed,Embral Fire Systems,Y
+SPR-01,Fire,Sprinkler alarm valve set,Embral Fire Systems,RF-AV100,RFV-1001,Basement 1 fire pump room,2026-05-30,Installed,Embral Fire Systems,Y
+LIFT-01,Vertical transport,Passenger lift,Vertica Lifts,VX-1600,VX16-7101,Core A,2026-07-22,Installed,Vertica Lifts,Y
+LIFT-02,Vertical transport,Passenger lift,Vertica Lifts,VX-1600,VX16-7102,Core B,2026-07-24,Installed,Vertica Lifts,Y
+LIFT-03,Vertical transport,Service lift,Vertica Lifts,VX-2000,VX20-7103,Core B,2026-07-29,Installed,Vertica Lifts,Y
+TX-01,Electrical,Transformer 1500 kVA,Ampero Electrical,AE-TX1500,AET-90011,Basement 1 substation,2026-05-12,Installed,Ampero Electrical,N
+TX-02,Electrical,Transformer 1500 kVA,Ampero Electrical,AE-TX1500,AET-90012,Basement 1 substation,2026-05-12,Installed,Ampero Electrical,N
+LV-MDB-01,Electrical,Main LV distribution board,Ampero Electrical,AE-MDB4000,AEM-4001,Basement 1 LV room,2026-05-19,Installed,Ampero Electrical,N
+GEN-01,Electrical,Standby diesel generator,Nordgen Power,NG-1250,NG12-6601,Basement 1 generator room,2026-06-15,Installed,Ampero Electrical,Y
+WTP-01,Plumbing,Domestic water booster set,Quenvale Pumps,AQ-BS3,AQB-3101,Basement 1 pump room,2026-06-12,Installed,Brisel MEP Services,N
+BMS-01,BMS,Building management system controller,Climax Controls,CC-BMS8,CCB-8001,Level 1 BMS room,2026-08-25,Installed,Brisel MEP Services,N

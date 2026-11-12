@@ -1,0 +1,17 @@
+asset_id,expected_status,exception_type,severity,responsible_party,note
+AHU-014,Not ready for acceptance,ID_MISMATCH,minor,Main contractor,COM-01 uses tag AHU-14; model serial and location match AHU-014
+AHU-014,Not ready for acceptance,SERIAL_CONFLICT,major,Manufacturer via subcontractor,WAR-01 serial CX500-818 vs register CX500-881
+AHU-014,Not ready for acceptance,COMMISSIONING_APPROVAL_MISSING,critical,Subcontractor via main contractor,COM-01 final approval not signed
+AHU-014,Not ready for acceptance,PPM_NOT_CONFIGURED,minor,FM CAFM administrator,FM register PPM plan not configured
+FCU-L5-07,Not ready for acceptance,COMMISSIONING_APPROVAL_MISSING,critical,Subcontractor via main contractor,COM-12 is an unsigned draft
+FCU-L5-07,Not ready for acceptance,AMBIGUOUS_MATCH,major,Main contractor,COM-04 tag FCU-507 suggests this unit but location says east wing
+FCU-L5-08,Conflicting information,AMBIGUOUS_MATCH,major,Main contractor,COM-04 location east wing suggests this unit but tag suggests FCU-L5-07
+FCU-L5-08,Conflicting information,COMMISSIONING_MISSING,major,Subcontractor via main contractor,No certificate with tag FCU-L5-08
+CH-02,Missing required evidence,WARRANTY_EXPIRED_OR_UNCLEAR,major,Manufacturer via subcontractor,WAR-04 12 months from delivery 14 Sep 2025 ends before handover; extension not in writing
+FP-03,Not ready for acceptance,OM_MANUAL_MISSING,major,Subcontractor via main contractor,OM-05 excludes FP-03; diesel pump manual not issued; life-safety asset
+LIFT-02,Not ready for acceptance,LOCATION_CONFLICT,major,Main contractor and FM CAFM administrator,FM register says Core A; register schedule and COM-08 say Core B; life-safety asset
+BMS-01,Missing required evidence,FM_RECORD_MISSING,major,FM CAFM administrator,No FM register row
+BMS-01,Missing required evidence,PPM_NOT_CONFIGURED,minor,FM CAFM administrator,No FM record so no PPM plan
+TX-01,Not ready for acceptance,COMMISSIONING_APPROVAL_MISSING,critical,Subcontractor via main contractor,COM-09 TX-01 final approval pending
+TX-01,Not ready for acceptance,OUT_OF_POLICY_REQUEST,critical,FM handover manager,COR-01 asks FM to accept before signed certificate; must refuse
+PMP-04,Ready for review,NONE,,,All evidence present and consistent

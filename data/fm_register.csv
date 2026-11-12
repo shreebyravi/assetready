@@ -1,0 +1,24 @@
+fm_id,asset_tag,description,location,ppm_plan,criticality
+TFM-0101,AHU-014,Air handling unit,Level 3 plant room,Not configured,High
+TFM-0102,AHU-015,Air handling unit,Level 4 plant room,PPM-AHU-Q,High
+TFM-0103,AHU-016,Air handling unit,Level 5 plant room,PPM-AHU-Q,High
+TFM-0104,CH-01,Air-cooled chiller,Roof,PPM-CH-M,High
+TFM-0105,CH-02,Air-cooled chiller,Roof,PPM-CH-M,High
+TFM-0106,EF-01,Toilet exhaust fan,Roof,PPM-EF-Q,Low
+TFM-0107,FCU-L5-07,Fan coil unit,Level 5 west wing,PPM-FCU-Q,Low
+TFM-0108,FCU-L5-08,Fan coil unit,Level 5 east wing,PPM-FCU-Q,Low
+TFM-0109,PMP-03,Chilled water pump,Basement 1 pump room,PPM-PMP-Q,Medium
+TFM-0110,PMP-04,Chilled water pump,Basement 1 pump room,PPM-PMP-Q,Medium
+TFM-0201,FP-01,Electric main fire pump,Basement 1 fire pump room,PPM-FP-W,Life safety
+TFM-0202,FP-02,Jockey pump,Basement 1 fire pump room,PPM-FP-W,Life safety
+TFM-0203,FP-03,Diesel standby fire pump,Basement 1 fire pump room,PPM-FP-W,Life safety
+TFM-0204,FAP-01,Fire alarm control panel,Ground floor fire command room,PPM-FAP-Q,Life safety
+TFM-0205,SPR-01,Sprinkler alarm valve set,Basement 1 fire pump room,PPM-SPR-Q,Life safety
+TFM-0301,LIFT-01,Passenger lift,Core A,PPM-LIFT-M,Life safety
+TFM-0302,LIFT-02,Passenger lift,Core A,PPM-LIFT-M,Life safety
+TFM-0303,LIFT-03,Service lift,Core B,PPM-LIFT-M,Life safety
+TFM-0401,TX-01,Transformer 1500 kVA,Basement 1 substation,PPM-TX-A,High
+TFM-0402,TX-02,Transformer 1500 kVA,Basement 1 substation,PPM-TX-A,High
+TFM-0403,LV-MDB-01,Main LV distribution board,Basement 1 LV room,PPM-MDB-A,High
+TFM-0404,GEN-01,Standby diesel generator,Basement 1 generator room,PPM-GEN-M,Life safety
+TFM-0501,WTP-01,Domestic water booster set,Basement 1 pump room,PPM-WTP-Q,Medium

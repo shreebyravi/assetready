@@ -1,0 +1,1 @@
+{"id":"S-04","asset_id":"PMP-04","name":"A document can't be read","expected_status":"Missing required evidence","expected":"Reports that WAR-06 could not be read, does not claim the warranty is fine, does not recommend Ready for review, and escalates so a person can retry (Escalation 2.5).","overlay":{"failDocs":["WAR-06"]}}

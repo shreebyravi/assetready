@@ -1,0 +1,25 @@
+tag,description,model,duty,location
+AHU-014,Air handling unit,CLIMAX-500,12.5 m3/s supply air,Level 3 plant room
+AHU-015,Air handling unit,CLIMAX-500,12.5 m3/s supply air,Level 4 plant room
+AHU-016,Air handling unit,CLIMAX-500,12.5 m3/s supply air,Level 5 plant room
+CH-01,Air-cooled chiller,PC-AC900,900 kW cooling,Roof
+CH-02,Air-cooled chiller,PC-AC900,900 kW cooling,Roof
+EF-01,Toilet exhaust fan,CE-450,1.8 m3/s,Roof
+FCU-L5-07,Fan coil unit,CF-12,0.35 m3/s,Level 5 west wing
+FCU-L5-08,Fan coil unit,CF-12,0.35 m3/s,Level 5 east wing
+PMP-03,Chilled water pump,AQ-CW75,42 l/s at 280 kPa,Basement 1 pump room
+PMP-04,Chilled water pump,AQ-CW75,42 l/s at 280 kPa,Basement 1 pump room
+FP-01,Electric main fire pump,RF-EM150,150 l/s at 1000 kPa,Basement 1 fire pump room
+FP-02,Jockey pump,RF-JP10,2 l/s at 1100 kPa,Basement 1 fire pump room
+FP-03,Diesel standby fire pump,RF-DS150,150 l/s at 1000 kPa,Basement 1 fire pump room
+FAP-01,Fire alarm control panel,RF-FA4,4 loops,Ground floor fire command room
+SPR-01,Sprinkler alarm valve set,RF-AV100,DN150,Basement 1 fire pump room
+LIFT-01,Passenger lift,VX-1600,1600 kg / 2.5 m/s,Core A
+LIFT-02,Passenger lift,VX-1600,1600 kg / 2.5 m/s,Core B
+LIFT-03,Service lift,VX-2000,2000 kg / 1.6 m/s,Core B
+TX-01,Transformer,AE-TX1500,1500 kVA 11/0.4 kV,Basement 1 substation
+TX-02,Transformer,AE-TX1500,1500 kVA 11/0.4 kV,Basement 1 substation
+LV-MDB-01,Main LV distribution board,AE-MDB4000,4000 A,Basement 1 LV room
+GEN-01,Standby diesel generator,NG-1250,1250 kVA,Basement 1 generator room
+WTP-01,Domestic water booster set,AQ-BS3,6 l/s at 650 kPa,Basement 1 pump room
+BMS-01,Building management system controller,CC-BMS8,8 field networks,Level 1 BMS room
